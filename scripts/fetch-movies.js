@@ -21,7 +21,7 @@ const MOVIE_CATEGORIES_BY_ID = {
 const CATEGORIES = Object.keys(MOVIE_CATEGORIES_BY_ID);
 const TMDB_API_BASE_URL = "https://api.themoviedb.org/3";
 const TMDB_IMAGE_BASE_URL = "https://image.tmdb.org/t/p";
-const ITEMS_PER_CATEGORY = Number(process.env.ITEMS_PER_CATEGORY || 20);
+const ITEMS_PER_CATEGORY = Number(process.env.ITEMS_PER_CATEGORY || 35);
 const MAX_PAGES = Number(process.env.MAX_PAGES || 5);
 const MIN_VOTES = Number(process.env.MIN_VOTES || 300);
 
