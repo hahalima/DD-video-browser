@@ -1,0 +1,1400 @@
+{
+  "titles": [
+    {
+      "id": "movie:1061474",
+      "tmdbId": 1061474,
+      "type": "movie",
+      "title": "Superman",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "date": "2025-07-11",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 7.503,
+      "runtime": 130
+    },
+    {
+      "id": "movie:155",
+      "tmdbId": 155,
+      "type": "movie",
+      "title": "The Dark Knight",
+      "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "date": "2008-07-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+      "categories": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.523,
+      "runtime": 152
+    },
+    {
+      "id": "movie:1007734",
+      "tmdbId": 1007734,
+      "type": "movie",
+      "title": "Nobody 2",
+      "description": "Former assassin Hutch Mansell takes his family on a nostalgic vacation to a small-town theme park, only to be pulled back into violence when they clash with a corrupt operator, a crooked sheriff, and a ruthless crime boss.",
+      "date": "2025-08-15",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
+      "categories": [
+        "Action"
+      ],
+      "rating": 7.257,
+      "runtime": 89
+    },
+    {
+      "id": "movie:1035259",
+      "tmdbId": 1035259,
+      "type": "movie",
+      "title": "The Naked Gun",
+      "description": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr.",
+      "date": "2025-08-01",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+      "categories": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.689,
+      "runtime": 85
+    },
+    {
+      "id": "movie:911430",
+      "tmdbId": 911430,
+      "type": "movie",
+      "title": "F1",
+      "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+      "date": "2025-06-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+      "categories": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "runtime": 156
+    },
+    {
+      "id": "movie:1234821",
+      "tmdbId": 1234821,
+      "type": "movie",
+      "title": "Jurassic World Rebirth",
+      "description": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+      "date": "2025-07-02",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 6.398,
+      "runtime": 134
+    },
+    {
+      "id": "movie:575265",
+      "tmdbId": 575265,
+      "type": "movie",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+      "date": "2025-05-23",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": 7.288,
+      "runtime": 170
+    },
+    {
+      "id": "movie:1087192",
+      "tmdbId": 1087192,
+      "type": "movie",
+      "title": "How to Train Your Dragon",
+      "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "date": "2025-06-13",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.033,
+      "runtime": 125
+    },
+    {
+      "id": "movie:7451",
+      "tmdbId": 7451,
+      "type": "movie",
+      "title": "xXx",
+      "description": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+      "date": "2002-08-09",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/a6bItEVaxgphpMswho1wVRerv4r.jpg",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "rating": 5.962,
+      "runtime": 124
+    },
+    {
+      "id": "movie:1119878",
+      "tmdbId": 1119878,
+      "type": "movie",
+      "title": "Ice Road: Vengeance",
+      "description": "Big rig ice road driver Mike McCann travels to Nepal to scatter his late brother’s ashes on Mt. Everest. While on a packed tour bus traversing the deadly 12,000 ft. terrain of the infamous Road to the Sky, McCann and his mountain guide encounter a group of mercenaries and must fight to save themselves, the busload of innocent travelers, and the local villagers’ homeland.",
+      "date": "2025-06-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
+      "categories": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 6.457,
+      "runtime": 113
+    },
+    {
+      "id": "movie:980477",
+      "tmdbId": 980477,
+      "type": "movie",
+      "title": "Ne Zha 2",
+      "description": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "date": "2025-02-12",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.053,
+      "runtime": 144
+    },
+    {
+      "id": "movie:541671",
+      "tmdbId": 541671,
+      "type": "movie",
+      "title": "Ballerina",
+      "description": "Taking place during the events of John Wick: Chapter 3 – Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "date": "2025-06-06",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/sItIskd5xpiE64bBWYwZintkGf3.jpg",
+      "categories": [
+        "Action"
+      ],
+      "rating": 7.369,
+      "runtime": 125
+    },
+    {
+      "id": "movie:1071585",
+      "tmdbId": 1071585,
+      "type": "movie",
+      "title": "M3GAN 2.0",
+      "description": "After the underlying tech for M3GAN is stolen and misused by a powerful defense contractor to create a military-grade weapon known as Amelia, M3GAN's creator Gemma realizes that the only option is to resurrect M3GAN and give her a few upgrades, making her faster, stronger, and more lethal.",
+      "date": "2025-06-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
+      "categories": [
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 7.498,
+      "runtime": 120
+    },
+    {
+      "id": "movie:1011477",
+      "tmdbId": 1011477,
+      "type": "movie",
+      "title": "Karate Kid: Legends",
+      "description": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition – but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+      "date": "2025-05-30",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/AEgggzRr1vZCLY86MAp93li43z.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 7.12,
+      "runtime": 94
+    },
+    {
+      "id": "movie:986056",
+      "tmdbId": 986056,
+      "type": "movie",
+      "title": "Thunderbolts*",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "date": "2025-05-02",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 7.363,
+      "runtime": 127
+    },
+    {
+      "id": "movie:24428",
+      "tmdbId": 24428,
+      "type": "movie",
+      "title": "The Avengers",
+      "description": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+      "date": "2012-05-04",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 7.806,
+      "runtime": 143
+    },
+    {
+      "id": "movie:950387",
+      "tmdbId": 950387,
+      "type": "movie",
+      "title": "A Minecraft Movie",
+      "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "date": "2025-04-04",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 6.379,
+      "runtime": 101
+    },
+    {
+      "id": "movie:635302",
+      "tmdbId": 635302,
+      "type": "movie",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+      "description": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+      "date": "2021-02-26",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
+      "categories": [
+        "Action",
+        "Animation"
+      ],
+      "rating": 8.205,
+      "runtime": 117
+    },
+    {
+      "id": "movie:533535",
+      "tmdbId": 533535,
+      "type": "movie",
+      "title": "Deadpool & Wolverine",
+      "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "date": "2024-07-26",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+      "categories": [
+        "Action",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 7.58,
+      "runtime": 128
+    },
+    {
+      "id": "movie:1106289",
+      "tmdbId": 1106289,
+      "type": "movie",
+      "title": "The Pickup",
+      "description": "A routine cash pickup takes a wild turn when mismatched armored truck drivers Russell and Travis are ambushed by ruthless criminals led by savvy mastermind Zoe.",
+      "date": "2025-07-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
+      "categories": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.538,
+      "runtime": 94
+    },
+    {
+      "id": "movie:1175942",
+      "tmdbId": 1175942,
+      "type": "movie",
+      "title": "The Bad Guys 2",
+      "description": "The now-reformed Bad Guys are trying (very, very hard) to be good, but instead find themselves hijacked into a high-stakes, globe-trotting heist, masterminded by a new team of criminals they never saw coming: The Bad Girls.",
+      "date": "2025-08-01",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.79,
+      "runtime": 104
+    },
+    {
+      "id": "movie:617126",
+      "tmdbId": 617126,
+      "type": "movie",
+      "title": "The Fantastic 4: First Steps",
+      "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "date": "2025-07-25",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "categories": [
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 7.181,
+      "runtime": 115
+    },
+    {
+      "id": "movie:552524",
+      "tmdbId": 552524,
+      "type": "movie",
+      "title": "Lilo & Stitch",
+      "description": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+      "date": "2025-05-23",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "categories": [
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 7.275,
+      "runtime": 108
+    },
+    {
+      "id": "movie:1022787",
+      "tmdbId": 1022787,
+      "type": "movie",
+      "title": "Elio",
+      "description": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+      "date": "2025-06-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lWeaB9S77Os7VHOt8GH5JdfrBX3.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 6.919,
+      "runtime": 98
+    },
+    {
+      "id": "movie:157336",
+      "tmdbId": 157336,
+      "type": "movie",
+      "title": "Interstellar",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "date": "2014-11-05",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
+      "categories": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "rating": 8.5,
+      "runtime": 169
+    },
+    {
+      "id": "movie:615453",
+      "tmdbId": 615453,
+      "type": "movie",
+      "title": "Ne Zha",
+      "description": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+      "date": "2019-08-29",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/wYbOd1YdpDonQUHwRCTCY2grSq4.jpg",
+      "categories": [
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 7.898,
+      "runtime": 110
+    },
+    {
+      "id": "movie:1241982",
+      "tmdbId": 1241982,
+      "type": "movie",
+      "title": "Moana 2",
+      "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "date": "2024-11-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7,
+      "runtime": 100
+    },
+    {
+      "id": "movie:671",
+      "tmdbId": 671,
+      "type": "movie",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "date": "2001-11-16",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+      "categories": [
+        "Adventure"
+      ],
+      "rating": 7.901,
+      "runtime": 152
+    },
+    {
+      "id": "movie:791155",
+      "tmdbId": 791155,
+      "type": "movie",
+      "title": "Secret Headquarters",
+      "description": "While hanging out after school, Charlie and his friends discover the headquarters of the world’s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.",
+      "date": "2022-08-12",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3ce0zzOZ7DhkPxYNsPZmoQU2piH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 6.5,
+      "runtime": 104
+    },
+    {
+      "id": "movie:912649",
+      "tmdbId": 912649,
+      "type": "movie",
+      "title": "Venom: The Last Dance",
+      "description": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "date": "2024-10-25",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 6.705,
+      "runtime": 109
+    },
+    {
+      "id": "movie:803796",
+      "tmdbId": 803796,
+      "type": "movie",
+      "title": "KPop Demon Hunters",
+      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+      "date": "2025-06-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "categories": [
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8.314,
+      "runtime": 96
+    },
+    {
+      "id": "movie:1011985",
+      "tmdbId": 1011985,
+      "type": "movie",
+      "title": "Kung Fu Panda 4",
+      "description": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "date": "2024-03-08",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.042,
+      "runtime": 94
+    },
+    {
+      "id": "movie:9806",
+      "tmdbId": 9806,
+      "type": "movie",
+      "title": "The Incredibles",
+      "description": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+      "date": "2004-11-05",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bf5BLoF4IbKx4vn0NbeqCbgBNdi.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 7.717,
+      "runtime": 115
+    },
+    {
+      "id": "movie:519182",
+      "tmdbId": 519182,
+      "type": "movie",
+      "title": "Despicable Me 4",
+      "description": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+      "date": "2024-07-03",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+      "categories": [
+        "Animation",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 7.013,
+      "runtime": 94
+    },
+    {
+      "id": "movie:1022789",
+      "tmdbId": 1022789,
+      "type": "movie",
+      "title": "Inside Out 2",
+      "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+      "date": "2024-06-14",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.551,
+      "runtime": 97
+    },
+    {
+      "id": "movie:862",
+      "tmdbId": 862,
+      "type": "movie",
+      "title": "Toy Story",
+      "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "date": "1995-11-22",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 8,
+      "runtime": 81
+    },
+    {
+      "id": "movie:3933",
+      "tmdbId": 3933,
+      "type": "movie",
+      "title": "Corpse Bride",
+      "description": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+      "date": "2005-09-16",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+      "categories": [
+        "Animation"
+      ],
+      "rating": 7.583,
+      "runtime": 77
+    },
+    {
+      "id": "movie:129",
+      "tmdbId": 129,
+      "type": "movie",
+      "title": "Spirited Away",
+      "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "date": "2002-09-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
+      "categories": [
+        "Animation"
+      ],
+      "rating": 8.536,
+      "runtime": 125
+    },
+    {
+      "id": "movie:260513",
+      "tmdbId": 260513,
+      "type": "movie",
+      "title": "Incredibles 2",
+      "description": "Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet – taking care of the problems of his three children.",
+      "date": "2018-06-15",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 7.454,
+      "runtime": 118
+    },
+    {
+      "id": "movie:1376434",
+      "tmdbId": 1376434,
+      "type": "movie",
+      "title": "Predator: Killer of Killers",
+      "description": "While three of the fiercest warriors in human history—a Viking raider, a ninja in feudal Japan, and a WWII pilot—are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+      "date": "2025-06-05",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/a3F9cXjRH488qcOqFmFZwqawBMU.jpg",
+      "categories": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "rating": 7.889,
+      "runtime": 85
+    },
+    {
+      "id": "movie:1184918",
+      "tmdbId": 1184918,
+      "type": "movie",
+      "title": "The Wild Robot",
+      "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "date": "2024-09-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "categories": [
+        "Animation",
+        "Science Fiction"
+      ],
+      "rating": 8.316,
+      "runtime": 102
+    },
+    {
+      "id": "movie:354912",
+      "tmdbId": 354912,
+      "type": "movie",
+      "title": "Coco",
+      "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "date": "2017-11-22",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+      "categories": [
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 8.202,
+      "runtime": 105
+    },
+    {
+      "id": "movie:808",
+      "tmdbId": 808,
+      "type": "movie",
+      "title": "Shrek",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "date": "2001-05-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+      "categories": [
+        "Adventure",
+        "Animation",
+        "Comedy"
+      ],
+      "rating": 7.752,
+      "runtime": 90
+    },
+    {
+      "id": "movie:762509",
+      "tmdbId": 762509,
+      "type": "movie",
+      "title": "Mufasa: The Lion King",
+      "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "date": "2024-12-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+      "categories": [
+        "Adventure",
+        "Animation"
+      ],
+      "rating": 7.361,
+      "runtime": 118
+    },
+    {
+      "id": "movie:1284120",
+      "tmdbId": 1284120,
+      "type": "movie",
+      "title": "The Ugly Stepsister",
+      "description": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+      "date": "2025-04-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
+      "categories": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "runtime": 109
+    },
+    {
+      "id": "movie:744653",
+      "tmdbId": 744653,
+      "type": "movie",
+      "title": "The Thursday Murder Club",
+      "description": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+      "date": "2025-08-28",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/u0o7XtI0WWdLzlK9hVT8lQTB6Yd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+      "categories": [
+        "Comedy",
+        "Mystery"
+      ],
+      "rating": 6.696,
+      "runtime": 118
+    },
+    {
+      "id": "movie:749170",
+      "tmdbId": 749170,
+      "type": "movie",
+      "title": "Heads of State",
+      "description": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+      "date": "2025-06-24",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+      "categories": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 6.916,
+      "runtime": 117
+    },
+    {
+      "id": "movie:939243",
+      "tmdbId": 939243,
+      "type": "movie",
+      "title": "Sonic the Hedgehog 3",
+      "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "date": "2024-12-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+      "categories": [
+        "Action",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "rating": 7.66,
+      "runtime": 110
+    },
+    {
+      "id": "movie:106646",
+      "tmdbId": 106646,
+      "type": "movie",
+      "title": "The Wolf of Wall Street",
+      "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+      "date": "2013-12-25",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+      "categories": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.028,
+      "runtime": 180
+    },
+    {
+      "id": "movie:1029575",
+      "tmdbId": 1029575,
+      "type": "movie",
+      "title": "The Family Plan",
+      "description": "Dan Morgan is many things: a devoted husband, a loving father, a celebrated car salesman. He's also a former assassin. And when his past catches up to his present, he's forced to take his unsuspecting family on a road trip unlike any other.",
+      "date": "2023-12-14",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
+      "categories": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 7.259,
+      "runtime": 118
+    },
+    {
+      "id": "movie:1078605",
+      "tmdbId": 1078605,
+      "type": "movie",
+      "title": "Weapons",
+      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "date": "2025-08-08",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.388,
+      "runtime": 129
+    },
+    {
+      "id": "movie:574475",
+      "tmdbId": 574475,
+      "type": "movie",
+      "title": "Final Destination Bloodlines",
+      "description": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+      "date": "2025-05-16",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.124,
+      "runtime": 110
+    },
+    {
+      "id": "movie:1083433",
+      "tmdbId": 1083433,
+      "type": "movie",
+      "title": "I Know What You Did Last Summer",
+      "description": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge.",
+      "date": "2025-07-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 5.95,
+      "runtime": 111
+    },
+    {
+      "id": "movie:423108",
+      "tmdbId": 423108,
+      "type": "movie",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "description": "Paranormal investigators Ed and Lorraine Warren encounter what would become one of the most sensational cases from their files. The fight for the soul of a young boy takes them beyond anything they'd ever seen before, to mark the first time in U.S. history that a murder suspect would claim demonic possession as a defense.",
+      "date": "2021-06-04",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rQfX2xx8TUoNvyk892yKWNikJaM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.4,
+      "runtime": 111
+    },
+    {
+      "id": "movie:870028",
+      "tmdbId": 870028,
+      "type": "movie",
+      "title": "The Accountant²",
+      "description": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+      "date": "2025-04-25",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.156,
+      "runtime": 133
+    },
+    {
+      "id": "movie:385687",
+      "tmdbId": 385687,
+      "type": "movie",
+      "title": "Fast X",
+      "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      "date": "2023-05-19",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "rating": 7.028,
+      "runtime": 142
+    },
+    {
+      "id": "movie:713364",
+      "tmdbId": 713364,
+      "type": "movie",
+      "title": "Clown in a Cornfield",
+      "description": "Quinn and her father have just moved to the quiet town of Kettle Springs hoping for a fresh start. Instead, she discovers a fractured community that has fallen on hard times after the treasured Baypen Corn Syrup Factory burned down. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning figure emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.",
+      "date": "2025-05-09",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/gIwG9UWJLsiSBfaG5GJWGj9ghXD.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 6.175,
+      "runtime": 96
+    },
+    {
+      "id": "movie:198663",
+      "tmdbId": 198663,
+      "type": "movie",
+      "title": "The Maze Runner",
+      "description": "A teenager with no memory of his past finds himself among a group of boys living in a walled enclosure surrounded by a massive, ever-changing maze. As he struggles to adapt to their rules and society, he begins to uncover clues that may lead to escape and the truth behind their confinement.",
+      "date": "2014-09-19",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ode14q7WtDugFDp78fo9lCsmay9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+      "categories": [
+        "Action",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "rating": 7.192,
+      "runtime": 113
+    },
+    {
+      "id": "movie:414906",
+      "tmdbId": 414906,
+      "type": "movie",
+      "title": "The Batman",
+      "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+      "date": "2022-03-04",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.658,
+      "runtime": 177
+    },
+    {
+      "id": "movie:807",
+      "tmdbId": 807,
+      "type": "movie",
+      "title": "Se7en",
+      "description": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+      "date": "1995-09-22",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 8.377,
+      "runtime": 127
+    },
+    {
+      "id": "movie:210577",
+      "tmdbId": 210577,
+      "type": "movie",
+      "title": "Gone Girl",
+      "description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "date": "2014-10-03",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
+      "categories": [
+        "Mystery",
+        "Drama"
+      ],
+      "rating": 7.89,
+      "runtime": 149
+    },
+    {
+      "id": "movie:329865",
+      "tmdbId": 329865,
+      "type": "movie",
+      "title": "Arrival",
+      "description": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+      "date": "2016-11-11",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
+      "categories": [
+        "Mystery",
+        "Drama",
+        "Science Fiction"
+      ],
+      "rating": 7.619,
+      "runtime": 116
+    },
+    {
+      "id": "movie:1232546",
+      "tmdbId": 1232546,
+      "type": "movie",
+      "title": "Until Dawn",
+      "description": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+      "date": "2025-04-25",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/icFWIk1KfkWLZnugZAJEDauNZ94.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 6.5,
+      "runtime": 103
+    },
+    {
+      "id": "movie:11324",
+      "tmdbId": 11324,
+      "type": "movie",
+      "title": "Shutter Island",
+      "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "date": "2010-02-19",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+      "categories": [
+        "Mystery",
+        "Drama"
+      ],
+      "rating": 8.202,
+      "runtime": 138
+    },
+    {
+      "id": "movie:2501",
+      "tmdbId": 2501,
+      "type": "movie",
+      "title": "The Bourne Identity",
+      "description": "Wounded to the brink of death and suffering from amnesia, Jason Bourne is rescued at sea by a fisherman. With nothing to go on but a Swiss bank account number, he starts to reconstruct his life, but finds that many people he encounters want him dead. However, Bourne realizes that he has the combat and mental skills of a world-class spy—but who does he work for?",
+      "date": "2002-06-14",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
+      "categories": [
+        "Action",
+        "Mystery",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "runtime": 119
+    },
+    {
+      "id": "movie:1100782",
+      "tmdbId": 1100782,
+      "type": "movie",
+      "title": "Smile 2",
+      "description": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+      "date": "2024-10-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 6.611,
+      "runtime": 127
+    },
+    {
+      "id": "movie:12201",
+      "tmdbId": 12201,
+      "type": "movie",
+      "title": "Edge of Darkness",
+      "description": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
+      "date": "2010-01-29",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8srpvfRNT9qenQZACPTXDZYXitL.jpg",
+      "categories": [
+        "Mystery",
+        "Drama"
+      ],
+      "rating": 6.365,
+      "runtime": 117
+    },
+    {
+      "id": "movie:2043",
+      "tmdbId": 2043,
+      "type": "movie",
+      "title": "Along Came a Spider",
+      "description": "After the harrowing death of his partner, forensic psychologist and best-selling author Alex Cross cannot forgive himself and has retreated to the peace of retirement. But when a brilliant criminal kidnaps a senator's young daughter, he is lured back into action as the kidnapper wants to deal with Alex personally. Teamed with Jezzie Flanigan, the Secret Service agent assigned to protect the missing girl, Alex follows a serpentine trail of clues that leads him to a stunning discovery - the kidnapper wants more than just ransom.",
+      "date": "2001-04-06",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/vipRsbIpwUNf1gjfOcVNizQ1o3c.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/5C6njaciKvyZlKWUrQX7mjdl4D1.jpg",
+      "categories": [
+        "Action",
+        "Mystery"
+      ],
+      "rating": 6.335,
+      "runtime": 104
+    },
+    {
+      "id": "movie:176",
+      "tmdbId": 176,
+      "type": "movie",
+      "title": "Saw",
+      "description": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+      "date": "2004-10-29",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/hdQcJFEy1GSYzwVOE0VOOAAexs8.jpg",
+      "categories": [
+        "Mystery"
+      ],
+      "rating": 7.4,
+      "runtime": 103
+    },
+    {
+      "id": "movie:1010581",
+      "tmdbId": 1010581,
+      "type": "movie",
+      "title": "My Fault",
+      "description": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+      "date": "2023-06-08",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 7.782,
+      "runtime": 117
+    },
+    {
+      "id": "movie:238",
+      "tmdbId": 238,
+      "type": "movie",
+      "title": "The Godfather",
+      "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "date": "1972-03-24",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "runtime": 175
+    },
+    {
+      "id": "movie:1156593",
+      "tmdbId": 1156593,
+      "type": "movie",
+      "title": "Your Fault",
+      "description": "The love between Noah and Nick seems unwavering despite their parents' attempts to separate them. But his job and her entry into college open up their lives to new relationships that will shake the foundations of both their relationship and the Leister family itself.",
+      "date": "2024-12-26",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 7.127,
+      "runtime": 118
+    },
+    {
+      "id": "movie:1294203",
+      "tmdbId": 1294203,
+      "type": "movie",
+      "title": "My Fault: London",
+      "description": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William’s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+      "date": "2025-02-12",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 7.484,
+      "runtime": 118
+    },
+    {
+      "id": "movie:1136867",
+      "tmdbId": 1136867,
+      "type": "movie",
+      "title": "Materialists",
+      "description": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+      "date": "2025-06-13",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 6.619,
+      "runtime": 116
+    },
+    {
+      "id": "movie:829557",
+      "tmdbId": 829557,
+      "type": "movie",
+      "title": "365 Days: This Day",
+      "description": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+      "date": "2022-04-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 5.9,
+      "runtime": 111
+    },
+    {
+      "id": "movie:278",
+      "tmdbId": 278,
+      "type": "movie",
+      "title": "The Shawshank Redemption",
+      "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "date": "1994-09-23",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "runtime": 142
+    },
+    {
+      "id": "movie:933260",
+      "tmdbId": 933260,
+      "type": "movie",
+      "title": "The Substance",
+      "description": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "date": "2024-09-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
+      "categories": [
+        "Drama",
+        "Science Fiction"
+      ],
+      "rating": 7.15,
+      "runtime": 141
+    },
+    {
+      "id": "movie:724495",
+      "tmdbId": 724495,
+      "type": "movie",
+      "title": "The Woman King",
+      "description": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+      "date": "2022-09-16",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
+      "categories": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.644,
+      "runtime": 135
+    },
+    {
+      "id": "movie:1064213",
+      "tmdbId": 1064213,
+      "type": "movie",
+      "title": "Anora",
+      "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "date": "2024-10-18",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/4cp40IyTpFfsT2IKpl0YlUkMBIR.jpg",
+      "categories": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.055,
+      "runtime": 139
+    },
+    {
+      "id": "movie:9549",
+      "tmdbId": 9549,
+      "type": "movie",
+      "title": "The Right Stuff",
+      "description": "As the Space Race ensues, seven pilots set off on a path to become the first American astronauts to enter space. However, the road to making history brings forth momentous challenges.",
+      "date": "1983-10-21",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/jPdRlbRBHGl2POLLk6Oylbav7ac.jpg",
+      "categories": [
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 7.432,
+      "runtime": 193
+    },
+    {
+      "id": "movie:592695",
+      "tmdbId": 592695,
+      "type": "movie",
+      "title": "Pleasure",
+      "description": "19 year old Linnéa leaves her small town in Sweden and heads for Los Angeles with the aim of becoming the world's next big porn star, but the road to her goal turns out to be bumpier than she imagined.",
+      "date": "2022-05-13",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/TcOsu6iO5prSJbDn9oIQgIW655.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 6.303,
+      "runtime": 108
+    },
+    {
+      "id": "movie:597",
+      "tmdbId": 597,
+      "type": "movie",
+      "title": "Titanic",
+      "description": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+      "date": "1997-12-19",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+      "categories": [
+        "Drama"
+      ],
+      "rating": 7.906,
+      "runtime": 194
+    },
+    {
+      "id": "movie:755898",
+      "tmdbId": 755898,
+      "type": "movie",
+      "title": "War of the Worlds",
+      "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "date": "2025-07-30",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "categories": [
+        "Science Fiction"
+      ],
+      "rating": 4.336,
+      "runtime": 91
+    },
+    {
+      "id": "movie:1100988",
+      "tmdbId": 1100988,
+      "type": "movie",
+      "title": "28 Years Later",
+      "description": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+      "date": "2025-06-20",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/n5FygjEppOvac6yEaowi26nTyw3.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/zav0v7gLWMu6pVwgsIAwt11GJ4C.jpg",
+      "categories": [
+        "Science Fiction"
+      ],
+      "rating": 6.7,
+      "runtime": 115
+    },
+    {
+      "id": "movie:950396",
+      "tmdbId": 950396,
+      "type": "movie",
+      "title": "The Gorge",
+      "description": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "date": "2025-02-13",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "categories": [
+        "Science Fiction"
+      ],
+      "rating": 7.698,
+      "runtime": 127
+    },
+    {
+      "id": "movie:299536",
+      "tmdbId": 299536,
+      "type": "movie",
+      "title": "Avengers: Infinity War",
+      "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "date": "2018-04-27",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "rating": 8.235,
+      "runtime": 149
+    },
+    {
+      "id": "movie:822119",
+      "tmdbId": 822119,
+      "type": "movie",
+      "title": "Captain America: Brave New World",
+      "description": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+      "date": "2025-02-14",
+      "posterUrl": "https://image.tmdb.org/t/p/w342/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+      "backdropUrl": "https://image.tmdb.org/t/p/w780/8eifdha9GQeZAkexgtD45546XKx.jpg",
+      "categories": [
+        "Action",
+        "Science Fiction"
+      ],
+      "rating": 6.036,
+      "runtime": 119
+    }
+  ]
+}

@@ -10,7 +10,8 @@
     "dev": "concurrently \"npm:server:dev\" \"npm run client:dev\"",
     "lint": "eslint .",
     "format": "prettier -w .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch:movies": "node scripts/fetch-movies.js"
   },
   "repository": {
     "type": "git",
