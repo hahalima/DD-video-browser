@@ -33,10 +33,11 @@ React + Express demo app for browsing a small catalog of movies.
 ### 5) General
 
 - [x] **Responsive** design
+- [x] **Unit Tests (Jest and React Testing Library**
 
 ## Setup
 
-###1) Install
+### 1) Install
 
 From the repo root:
 
@@ -67,6 +68,27 @@ npm --prefix client install   # installs client deps
 - **Run only client**:
   ```
   npm run client:dev
+  ```
+
+---
+
+### 3) Testing
+
+- **Run tests for the React client** (Jest + React Testing Library).
+
+  From the repo root:
+
+  ```
+  npm --prefix client test                # run tests once
+  npm --prefix client test -- --coverage  # with coverage
+  ```
+
+  Or from the client folder:
+
+  ```
+  cd client
+  npm test
+  npm test -- --coverage
   ```
 
 ---
