@@ -9,7 +9,7 @@ export default function VideoCard({ item }) {
   const runtime = formatRuntime(item.runtime);
   
   return (
-    <Link to={`/video/${item.id}`} className="card">
+    <Link to={`/video/${item.id}`} className="card" aria-label={item.title}>
       <img className="card-media" src={src} alt={item.title} loading="lazy" />
       <div className="card-body">
         <div className="card-title" title={item.title}>
