@@ -1,4 +1,4 @@
-import HorizontalCarousel from "./HorizontalCarousel-2.jsx";
+import HorizontalCarousel from "./HorizontalCarousel.jsx";
 import VideoCard from "./VideoCard.jsx";
 import "../styles/CategoryRow.css"
 
