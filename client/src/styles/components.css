@@ -1,0 +1,18 @@
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: rgba(11, 11, 15, 0.8);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #1e1e25;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
