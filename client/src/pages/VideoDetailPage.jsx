@@ -90,7 +90,7 @@ export default function VideoDetailPage() {
       <button
         type="button"
         className="play-video-button"
-        onClick={() => alert("Pretend to play video!")}
+        onClick={() => alert("Simulate playing video!")}
         aria-label="Play Video"
       >
         ▶ Play
