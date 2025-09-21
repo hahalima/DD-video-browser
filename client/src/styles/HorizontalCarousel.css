@@ -1,0 +1,54 @@
+.carousel {
+  position: relative;
+  margin: 12px 0;
+}
+
+.carousel-viewport {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-left: 40px;
+  padding-right: 40px;
+  scroll-snap-type: x mandatory;  /* aligns after smooth scrolls */
+  scrollbar-width: none;
+}
+.carousel-viewport::-webkit-scrollbar { 
+  display: none;
+} 
+
+.carousel-track {
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+}
+
+.carousel-slide {
+  flex: 0 0 clamp(220px, 28vw, 360px);
+  min-width: clamp(220px, 28vw, 360px);
+  display: flex;
+  scroll-snap-align: start;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  border: 1px solid #333;
+  background: rgba(0, 0, 0, 0.6);
+  color: #eee;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+.arrow[disabled] {
+  opacity: 0.35;
+  cursor: default;
+}
+.prev {
+  left: 5px;
+}
+.next {
+  right: 5px;
+}
