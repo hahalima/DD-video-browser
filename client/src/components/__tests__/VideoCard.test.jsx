@@ -1,17 +1,17 @@
-import '@testing-library/jest-dom';
-import { screen, render } from '@testing-library/react';
-import { MemoryRouter } from 'react-router-dom';
-import VideoCard from '../VideoCard.jsx';
+import "@testing-library/jest-dom";
+import { screen, render } from "@testing-library/react";
+import { MemoryRouter } from "react-router-dom";
+import VideoCard from "../VideoCard.jsx";
 
 function renderCard(overrides = {}) {
   const item = {
-    id: 'movie:27205',
-    title: 'Inception',
-    date: '2010-07-16',
+    id: "movie:27205",
+    title: "Inception",
+    date: "2010-07-16",
     rating: 8.37,
     runtime: 148, // 2h 28m
-    backdropUrl: '/img/backdrop.jpg',
-    posterUrl: '/img/poster.jpg',
+    backdropUrl: "/img/backdrop.jpg",
+    posterUrl: "/img/poster.jpg",
     ...overrides,
   };
   const ui = (
@@ -24,36 +24,36 @@ function renderCard(overrides = {}) {
   return { item, ...utils };
 }
 
-describe('VideoCard', () => {
-  test('renders title, image with alt, and link href', () => {
+describe("VideoCard", () => {
+  test("renders title, image with alt, and link href", () => {
     const { item } = renderCard();
 
     // Title
     expect(screen.getByText(item.title)).toBeInTheDocument();
 
     // Image alt + src
-    const img = screen.getByRole('img', { name: item.title });
-    expect(img).toHaveAttribute('src', item.backdropUrl);
-    expect(img).toHaveAttribute('alt', item.title);
-    expect(img).toHaveAttribute('loading', 'lazy');
+    const img = screen.getByRole("img", { name: item.title });
+    expect(img).toHaveAttribute("src", item.backdropUrl);
+    expect(img).toHaveAttribute("alt", item.title);
+    expect(img).toHaveAttribute("loading", "lazy");
 
     // Link targets /video/:id
-    const link = screen.getByRole('link', { name: item.title });
-    expect(link).toHaveAttribute('href', `/video/${item.id}`);
+    const link = screen.getByRole("link", { name: item.title });
+    expect(link).toHaveAttribute("href", `/video/${item.id}`);
   });
 
-  test('shows year, rating (★), and formatted runtime', () => {
+  test("shows year, rating (★), and formatted runtime", () => {
     renderCard();
-    expect(screen.getByText('2010')).toBeInTheDocument(); // from date
-    expect(screen.getByText('★ 8.4')).toBeInTheDocument(); // toFixed(1)
-    expect(screen.getByText('2h 28m')).toBeInTheDocument(); // 148 mins
+    expect(screen.getByText("2010")).toBeInTheDocument(); // from date
+    expect(screen.getByText("★ 8.4")).toBeInTheDocument(); // toFixed(1)
+    expect(screen.getByText("2h 28m")).toBeInTheDocument(); // 148 mins
   });
 
-  test('prefers backdropUrl over posterUrl, falls back when absent', () => {
+  test("prefers backdropUrl over posterUrl, falls back when absent", () => {
     const { item, rerender } = renderCard();
     // with backdrop
-    expect(screen.getByRole('img', { name: item.title })).toHaveAttribute(
-      'src',
+    expect(screen.getByRole("img", { name: item.title })).toHaveAttribute(
+      "src",
       item.backdropUrl,
     );
 
@@ -61,7 +61,7 @@ describe('VideoCard', () => {
     const next = {
       ...item,
       backdropUrl: undefined,
-      posterUrl: '/img/poster-only.jpg',
+      posterUrl: "/img/poster-only.jpg",
     };
     rerender(
       <MemoryRouter>
@@ -69,18 +69,18 @@ describe('VideoCard', () => {
       </MemoryRouter>,
     );
 
-    expect(screen.getByRole('img', { name: item.title })).toHaveAttribute(
-      'src',
-      '/img/poster-only.jpg',
+    expect(screen.getByRole("img", { name: item.title })).toHaveAttribute(
+      "src",
+      "/img/poster-only.jpg",
     );
   });
 
-  test('renders metadata in order: year → rating → runtime', () => {
+  test("renders metadata in order: year → rating → runtime", () => {
     const { item } = renderCard(); // has date, rating, runtime
 
-    const year = screen.getByText('2010'); // from item.date
-    const rating = screen.getByText('★ 8.4'); // toFixed(1)
-    const run = screen.getByText('2h 28m'); // 148 mins
+    const year = screen.getByText("2010"); // from item.date
+    const rating = screen.getByText("★ 8.4"); // toFixed(1)
+    const run = screen.getByText("2h 28m"); // 148 mins
 
     // helper to assert node A is followed by node B in the DOM
     const isBefore = (a, b) =>
@@ -90,7 +90,7 @@ describe('VideoCard', () => {
     expect(isBefore(rating, run)).toBe(true);
   });
 
-  test('hides optional metadata when missing', () => {
+  test("hides optional metadata when missing", () => {
     renderCard({ date: null, rating: null, runtime: 0 });
 
     // No year or star/rating or runtime text

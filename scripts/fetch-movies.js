@@ -9,13 +9,13 @@ if (!TMDB_API_KEY) {
 
 // map each category/genre string with TMDB's internal id
 const MOVIE_CATEGORIES_BY_ID = {
-  "Action": 28,
-  "Adventure": 12,
-  "Animation": 16,
-  "Comedy": 35,
-  "Mystery": 9648,
-  "Drama": 18,
-  "Science Fiction": 878
+  Action: 28,
+  Adventure: 12,
+  Animation: 16,
+  Comedy: 35,
+  Mystery: 9648,
+  Drama: 18,
+  "Science Fiction": 878,
 };
 
 const CATEGORIES = Object.keys(MOVIE_CATEGORIES_BY_ID);
@@ -35,23 +35,30 @@ async function fetchMoviesByCategory(category, moviesById) {
   const selectedIdsForCategory = new Set();
   const genreId = MOVIE_CATEGORIES_BY_ID[category];
 
-  for (let page = 1; selectedIdsForCategory.size < ITEMS_PER_CATEGORY && page <= MAX_PAGES; page++) {
+  for (
+    let page = 1;
+    selectedIdsForCategory.size < ITEMS_PER_CATEGORY && page <= MAX_PAGES;
+    page++
+  ) {
     const qs = new URLSearchParams({
-      "with_genres": String(genreId),
-      "sort_by": "popularity.desc",
+      with_genres: String(genreId),
+      sort_by: "popularity.desc",
       "vote_count.gte": String(MIN_VOTES),
-      "include_adult": "false",
-      "language": "en-US",
-      "region": "US",
-      "page": String(page),
-      "api_key": TMDB_API_KEY
+      include_adult: "false",
+      language: "en-US",
+      region: "US",
+      page: String(page),
+      api_key: TMDB_API_KEY,
     });
 
     let data;
     try {
       data = await getJson(`${TMDB_API_BASE_URL}/discover/movie?${qs}`);
     } catch (err) {
-      console.error(`/discover/movie failed for ${category} page ${page}:`, err.message);
+      console.error(
+        `/discover/movie failed for ${category} page ${page}:`,
+        err.message,
+      );
       break;
     }
 
@@ -64,14 +71,15 @@ async function fetchMoviesByCategory(category, moviesById) {
 
       const id = `movie:${movie.id}`; // add an id prefix to guarantee uniqueness
       const categories = CATEGORIES.filter((name) =>
-        (movie.genre_ids || []).includes(MOVIE_CATEGORIES_BY_ID[name])
+        (movie.genre_ids || []).includes(MOVIE_CATEGORIES_BY_ID[name]),
       );
 
-      if (moviesById.has(id)) {  // handle case when a movie is in multiple categories
-        const existingMovie= moviesById.get(id);
-          const mergedCategories = [
-            ...new Set([...(existingMovie.categories ?? []), ...categories])
-          ];
+      if (moviesById.has(id)) {
+        // handle case when a movie is in multiple categories
+        const existingMovie = moviesById.get(id);
+        const mergedCategories = [
+          ...new Set([...(existingMovie.categories ?? []), ...categories]),
+        ];
         moviesById.set(id, { ...existingMovie, categories: mergedCategories });
         selectedIdsForCategory.add(id);
         continue;
@@ -79,13 +87,25 @@ async function fetchMoviesByCategory(category, moviesById) {
 
       let runtime = null;
       try {
-        const detailQueryParams = new URLSearchParams({ "api_key": TMDB_API_KEY, "language": "en-US" });
-        const detail = await getJson(`${TMDB_API_BASE_URL}/movie/${movie.id}?${detailQueryParams}`);
-        runtime = (typeof detail.runtime === "number" && detail.runtime > 0) ? detail.runtime : null;
+        const detailQueryParams = new URLSearchParams({
+          api_key: TMDB_API_KEY,
+          language: "en-US",
+        });
+        const detail = await getJson(
+          `${TMDB_API_BASE_URL}/movie/${movie.id}?${detailQueryParams}`,
+        );
+        runtime =
+          typeof detail.runtime === "number" && detail.runtime > 0
+            ? detail.runtime
+            : null;
       } catch (err) {
-        console.error(`/movie/:id failed for ${category} page ${page}:`, err.message);
+        console.error(
+          `/movie/:id failed for ${category} page ${page}:`,
+          err.message,
+        );
       }
-      const rating = (typeof movie.vote_average === "number") ? movie.vote_average : null;
+      const rating =
+        typeof movie.vote_average === "number" ? movie.vote_average : null;
 
       const obj = {
         id,
@@ -94,11 +114,15 @@ async function fetchMoviesByCategory(category, moviesById) {
         title: movie.title || movie.name,
         description: movie.overview || "",
         date: movie.release_date || null,
-        posterUrl: movie.poster_path ? `${TMDB_IMAGE_BASE_URL}/w342${movie.poster_path}` : null,
-        backdropUrl: movie.backdrop_path ? `${TMDB_IMAGE_BASE_URL}/w780${movie.backdrop_path}` : null,
+        posterUrl: movie.poster_path
+          ? `${TMDB_IMAGE_BASE_URL}/w342${movie.poster_path}`
+          : null,
+        backdropUrl: movie.backdrop_path
+          ? `${TMDB_IMAGE_BASE_URL}/w780${movie.backdrop_path}`
+          : null,
         categories,
         rating,
-        runtime
+        runtime,
       };
 
       moviesById.set(id, obj);
@@ -107,7 +131,9 @@ async function fetchMoviesByCategory(category, moviesById) {
   }
 
   if (selectedIdsForCategory.size < ITEMS_PER_CATEGORY) {
-    console.warn(`Only ${selectedIdsForCategory.size}/${ITEMS_PER_CATEGORY} for ${category}.`);
+    console.warn(
+      `Only ${selectedIdsForCategory.size}/${ITEMS_PER_CATEGORY} for ${category}.`,
+    );
   }
 }
 
@@ -122,13 +148,13 @@ async function main() {
   await fs.writeFile(
     "data/titles.json",
     JSON.stringify({ titles }, null, 2),
-    "utf8"
+    "utf8",
   );
 
   console.log(`Done! Wrote data/titles.json. Total titles: ${titles.length}.`);
 }
 
-main().catch((err) => { 
-  console.error(err); 
-  process.exit(1); 
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
 });

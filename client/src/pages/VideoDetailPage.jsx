@@ -34,64 +34,68 @@ export default function VideoDetailPage() {
         }
       }
     })();
-    
+
     return () => controller.abort(); // cancel in-flight request on unmount or id change
   }, [id]);
 
-  if (loading) return <main className="container">Loading…</main>;
-  if (err) return <main className="container error-text">{err}</main>;
-  if (!videoInfo) return <main className="container">Not found.</main>;
+  if (loading) return <main className='container'>Loading…</main>;
+  if (err) return <main className='container error-text'>{err}</main>;
+  if (!videoInfo) return <main className='container'>Not found.</main>;
 
   const year = videoInfo.date ? new Date(videoInfo.date).getFullYear() : null;
   const runtime = formatRuntime(videoInfo.runtime);
-  const rating = Number.isFinite(videoInfo.rating) ? videoInfo.rating.toFixed(1) : null;
+  const rating = Number.isFinite(videoInfo.rating)
+    ? videoInfo.rating.toFixed(1)
+    : null;
   const bannerImage = videoInfo.backdropUrl || videoInfo.posterUrl;
 
   return (
-    <main className="container">
+    <main className='container'>
       <button
-        type="button"
+        type='button'
         onClick={() => navigate(-1)}
-        className="back-button"
-        aria-label="Go back"
+        className='back-button'
+        aria-label='Go back'
       >
         ← Back
       </button>
 
-      <div className="media-container video-detail-banner">
-        {bannerImage && <img src={bannerImage} alt={videoInfo.title} loading="eager"/>}
+      <div className='media-container video-detail-banner'>
+        {bannerImage && (
+          <img src={bannerImage} alt={videoInfo.title} loading='eager' />
+        )}
       </div>
 
-      <h1 className="video-detail-title">{videoInfo.title}</h1>
+      <h1 className='video-detail-title'>{videoInfo.title}</h1>
 
-      <div className="video-detail-metadata">
+      <div className='video-detail-metadata'>
         {videoInfo.type && <span>{videoInfo.type.toUpperCase()}</span>}
         {year && <span>{year}</span>}
         {rating && <span>★ {rating}</span>}
         {runtime && <span>{runtime}</span>}
       </div>
 
-      <div className="category-badges">
+      <div className='category-badges'>
         {(videoInfo.categories || []).map((category) => (
           <Link
             key={category}
             to={`/search?category=${encodeURIComponent(category)}`}
-            className="category-badge"
+            className='category-badge'
           >
             {category}
           </Link>
         ))}
       </div>
 
-      <p className="video-description">
+      <p className='video-description'>
         {videoInfo.description || "No description available."}
       </p>
 
       <button
-        type="button"
-        className="play-video-button"
+        type='button'
+        className='play-video-button'
         onClick={() => alert("Simulate playing video!")}
-        aria-label="Play Video"
+        aria-label='Play Video'
       >
         ▶ Play
       </button>

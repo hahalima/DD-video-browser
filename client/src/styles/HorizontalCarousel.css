@@ -8,12 +8,12 @@
   overflow-y: hidden;
   padding-left: 40px;
   padding-right: 40px;
-  scroll-snap-type: x mandatory;  /* aligns after smooth scrolls */
+  scroll-snap-type: x mandatory; /* aligns after smooth scrolls */
   scrollbar-width: none;
 }
-.carousel-viewport::-webkit-scrollbar { 
+.carousel-viewport::-webkit-scrollbar {
   display: none;
-} 
+}
 
 .carousel-track {
   display: flex;

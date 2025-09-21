@@ -1,5 +1,7 @@
 .media-container {
-  position: relative; border-radius: 14px; overflow: hidden;
+  position: relative;
+  border-radius: 14px;
+  overflow: hidden;
   border: 1px solid #1e1e25;
   background: var(--bg);
 }
@@ -57,7 +59,9 @@
   background: #3b82f6;
   color: #fff;
   cursor: pointer;
-  transition: background-color .15s ease, border-color .15s ease;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
 }
 
 .back-button:hover {
@@ -73,7 +77,9 @@
   background: #22c55e;
   color: #fff;
   cursor: pointer;
-  transition: background-color .15s ease, border-color .15s ease;
+  transition:
+    background-color 0.15s ease,
+    border-color 0.15s ease;
 }
 .play-video-button:hover {
   background: #16a34a;

@@ -7,15 +7,15 @@ export default function VideoCard({ item }) {
   const year = item.date ? new Date(item.date).getFullYear() : null;
   const rating = Number.isFinite(item.rating) ? item.rating.toFixed(1) : null;
   const runtime = formatRuntime(item.runtime);
-  
+
   return (
-    <Link to={`/video/${item.id}`} className="card" aria-label={item.title}>
-      <img className="card-media" src={src} alt={item.title} loading="lazy" />
-      <div className="card-body">
-        <div className="card-title" title={item.title}>
+    <Link to={`/video/${item.id}`} className='card' aria-label={item.title}>
+      <img className='card-media' src={src} alt={item.title} loading='lazy' />
+      <div className='card-body'>
+        <div className='card-title' title={item.title}>
           {item.title}
         </div>
-        <div className="card-metadata">
+        <div className='card-metadata'>
           {year && <span>{year}</span>}
           {rating && <span>★ {rating}</span>}
           {runtime && <span>{runtime}</span>}

@@ -47,20 +47,20 @@ export default function HorizontalCarousel({ children, scrollBy = 3 }) {
   };
 
   return (
-    <div className="carousel">
+    <div className='carousel'>
       <button
-        className="arrow prev"
+        className='arrow prev'
         onClick={handlePrev}
         disabled={!canPrev}
-        aria-label="Previous"
+        aria-label='Previous'
       >
         ‹
       </button>
 
-      <div className="carousel-viewport" ref={viewportRef}>
-        <div className="carousel-track">
+      <div className='carousel-viewport' ref={viewportRef}>
+        <div className='carousel-track'>
           {Children.map(children, (child, i) => (
-            <div className="carousel-slide" key={child?.key ?? i}>
+            <div className='carousel-slide' key={child?.key ?? i}>
               {child}
             </div>
           ))}
@@ -68,10 +68,10 @@ export default function HorizontalCarousel({ children, scrollBy = 3 }) {
       </div>
 
       <button
-        className="arrow next"
+        className='arrow next'
         onClick={handleNext}
         disabled={!canNext}
-        aria-label="Next"
+        aria-label='Next'
       >
         ›
       </button>

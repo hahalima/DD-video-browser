@@ -9,9 +9,9 @@ export default function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/" element={<BrowsePage />} />
-        <Route path="/search" element={<SearchPage />} />
-        <Route path="/video/:id" element={<VideoDetailPage />} />
+        <Route path='/' element={<BrowsePage />} />
+        <Route path='/search' element={<SearchPage />} />
+        <Route path='/video/:id' element={<VideoDetailPage />} />
       </Routes>
     </>
   );

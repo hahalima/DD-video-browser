@@ -35,7 +35,9 @@ try {
   categories = parsedCategories.categories ?? [];
 
   titlesById = new Map(titles.map((t) => [t.id, t]));
-  console.log(`Loaded ${titles.length} titles across ${categories.length} categories`);
+  console.log(
+    `Loaded ${titles.length} titles across ${categories.length} categories`,
+  );
 } catch (err) {
   console.error("Failed to load data files", err);
   process.exit(1);
@@ -53,18 +55,19 @@ app.get("/videos", (req, res) => {
   // const { category, type, q } = req.query;
 
   // normalize query params to strings
-  const categoryQuery = typeof req.query.category === "string" ? req.query.category : "";
+  const categoryQuery =
+    typeof req.query.category === "string" ? req.query.category : "";
   const typeQuery = typeof req.query.type === "string" ? req.query.type : "";
   const searchQuery = typeof req.query.q === "string" ? req.query.q : "";
 
   // handle cases where page or limit are not strings representing numbers
-  const pageStr  = typeof req.query.page  === "string" ? req.query.page  : "";
+  const pageStr = typeof req.query.page === "string" ? req.query.page : "";
   const limitStr = typeof req.query.limit === "string" ? req.query.limit : "";
-  let page  = Number.parseInt(pageStr || "1", 10); // avoid 0 or negatives
+  let page = Number.parseInt(pageStr || "1", 10); // avoid 0 or negatives
   if (!Number.isFinite(page) || page <= 0) {
     page = 1;
   }
-  let limit = Number.parseInt(limitStr || "20", 10);  // have range of 1-100
+  let limit = Number.parseInt(limitStr || "20", 10); // have range of 1-100
   if (!Number.isFinite(limit) || limit <= 0) {
     limit = 20;
   }
@@ -84,7 +87,9 @@ app.get("/videos", (req, res) => {
   }
   if (searchQuery) {
     const searchTerm = searchQuery.toLowerCase();
-    results = results.filter((t) => (t.title ?? "").toLowerCase().includes(searchTerm));
+    results = results.filter((t) =>
+      (t.title ?? "").toLowerCase().includes(searchTerm),
+    );
   }
 
   const total = results.length;

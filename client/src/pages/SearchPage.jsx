@@ -24,7 +24,9 @@ export default function SearchPage() {
     const controller = new AbortController();
     (async () => {
       try {
-        const categoriesList = await apiGet("/categories", { signal: controller.signal });
+        const categoriesList = await apiGet("/categories", {
+          signal: controller.signal,
+        });
         if (!controller.signal.aborted) {
           setAllCategories(categoriesList || []);
         }
@@ -60,7 +62,9 @@ export default function SearchPage() {
         }
         searchParams.set("limit", "50");
 
-        const data = await apiGet(`/videos?${searchParams.toString()}`, { signal: controller.signal });
+        const data = await apiGet(`/videos?${searchParams.toString()}`, {
+          signal: controller.signal,
+        });
         if (!controller.signal.aborted) {
           setVideos(data.results || []);
         }
@@ -82,8 +86,7 @@ export default function SearchPage() {
     const urlParams = new URLSearchParams(params);
     if (value) {
       urlParams.set("q", value);
-    }
-    else {
+    } else {
       urlParams.delete("q");
     }
     setParams(urlParams);
@@ -93,8 +96,7 @@ export default function SearchPage() {
     const urlParams = new URLSearchParams(params);
     if (name === category) {
       urlParams.delete("category");
-    }
-    else {
+    } else {
       urlParams.set("category", name);
     }
     setParams(urlParams);
@@ -108,23 +110,23 @@ export default function SearchPage() {
   };
 
   return (
-    <main className="container">
+    <main className='container'>
       <h2>Search Movies:</h2>
 
-      <form className="search-form" onSubmit={(e) => e.preventDefault()}>
+      <form className='search-form' onSubmit={(e) => e.preventDefault()}>
         <input
-          className="search"
-          placeholder="Search titles…"
+          className='search'
+          placeholder='Search titles…'
           value={q}
           onChange={handleQueryChange}
         />
       </form>
 
-      <div className="category-filters">
+      <div className='category-filters'>
         {allCategories.map((name) => (
           <button
             key={name}
-            type="button"
+            type='button'
             onClick={() => handleCategoryToggle(name)}
             className={`filter-pill ${name === category ? "active" : ""}`}
           >
@@ -132,19 +134,23 @@ export default function SearchPage() {
           </button>
         ))}
         {(q || category) && (
-          <button type="button" onClick={handleClearFilters} className="filter-pill clear">
+          <button
+            type='button'
+            onClick={handleClearFilters}
+            className='filter-pill clear'
+          >
             Clear
           </button>
         )}
       </div>
 
-      {err && !loading && !isDebouncing && (
-        <div>{err}</div>
-      )}
+      {err && !loading && !isDebouncing && <div>{err}</div>}
 
       {videos.length > 0 && (
-        <div className="videos-grid">
-          {videos.map((m) => <VideoCard key={m.id} item={m} />)}
+        <div className='videos-grid'>
+          {videos.map((m) => (
+            <VideoCard key={m.id} item={m} />
+          ))}
         </div>
       )}
 

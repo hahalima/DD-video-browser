@@ -9,10 +9,7 @@
       "date": "2025-07-11",
       "posterUrl": "https://image.tmdb.org/t/p/w342/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg",
-      "categories": [
-        "Action",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Science Fiction"],
       "rating": 7.503,
       "runtime": 130
     },
@@ -25,10 +22,7 @@
       "date": "2008-07-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
-      "categories": [
-        "Action",
-        "Drama"
-      ],
+      "categories": ["Action", "Drama"],
       "rating": 8.523,
       "runtime": 152
     },
@@ -41,9 +35,7 @@
       "date": "2025-08-15",
       "posterUrl": "https://image.tmdb.org/t/p/w342/svXVRoRSu6zzFtCzkRsjZS7Lqpd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 7.257,
       "runtime": 89
     },
@@ -56,10 +48,7 @@
       "date": "2025-08-01",
       "posterUrl": "https://image.tmdb.org/t/p/w342/rmwQ8GsdQ1M3LtemNWLErle2nBU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
+      "categories": ["Action", "Comedy"],
       "rating": 6.689,
       "runtime": 85
     },
@@ -72,10 +61,7 @@
       "date": "2025-06-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/9PXZIUsSDh4alB80jheWX4fhZmy.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
-      "categories": [
-        "Action",
-        "Drama"
-      ],
+      "categories": ["Action", "Drama"],
       "rating": 7.8,
       "runtime": 156
     },
@@ -88,11 +74,7 @@
       "date": "2025-07-02",
       "posterUrl": "https://image.tmdb.org/t/p/w342/1RICxzeoNCAO5NpcRMIgg1XT6fm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 6.398,
       "runtime": 134
     },
@@ -105,10 +87,7 @@
       "date": "2025-05-23",
       "posterUrl": "https://image.tmdb.org/t/p/w342/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
+      "categories": ["Action", "Adventure"],
       "rating": 7.288,
       "runtime": 170
     },
@@ -121,10 +100,7 @@
       "date": "2025-06-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
+      "categories": ["Action", "Adventure"],
       "rating": 8.033,
       "runtime": 125
     },
@@ -137,10 +113,7 @@
       "date": "2002-08-09",
       "posterUrl": "https://image.tmdb.org/t/p/w342/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a6bItEVaxgphpMswho1wVRerv4r.jpg",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
+      "categories": ["Action", "Adventure"],
       "rating": 5.962,
       "runtime": 124
     },
@@ -153,10 +126,7 @@
       "date": "2025-06-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/cQN9rZj06rXMVkk76UF1DfBAico.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
-      "categories": [
-        "Action",
-        "Drama"
-      ],
+      "categories": ["Action", "Drama"],
       "rating": 6.457,
       "runtime": 113
     },
@@ -169,11 +139,7 @@
       "date": "2025-02-12",
       "posterUrl": "https://image.tmdb.org/t/p/w342/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Action", "Adventure", "Animation"],
       "rating": 8.053,
       "runtime": 144
     },
@@ -186,9 +152,7 @@
       "date": "2025-06-06",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/sItIskd5xpiE64bBWYwZintkGf3.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 7.369,
       "runtime": 125
     },
@@ -201,10 +165,7 @@
       "date": "2025-06-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/4a63rQqIDTrYNdcnTXdPsQyxVLo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
-      "categories": [
-        "Action",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Science Fiction"],
       "rating": 7.498,
       "runtime": 120
     },
@@ -217,11 +178,7 @@
       "date": "2025-05-30",
       "posterUrl": "https://image.tmdb.org/t/p/w342/AEgggzRr1vZCLY86MAp93li43z.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
+      "categories": ["Action", "Adventure", "Drama"],
       "rating": 7.12,
       "runtime": 94
     },
@@ -234,11 +191,7 @@
       "date": "2025-05-02",
       "posterUrl": "https://image.tmdb.org/t/p/w342/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.363,
       "runtime": 127
     },
@@ -251,11 +204,7 @@
       "date": "2012-05-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.806,
       "runtime": 143
     },
@@ -268,11 +217,7 @@
       "date": "2025-04-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
+      "categories": ["Action", "Adventure", "Comedy"],
       "rating": 6.379,
       "runtime": 101
     },
@@ -285,10 +230,7 @@
       "date": "2021-02-26",
       "posterUrl": "https://image.tmdb.org/t/p/w342/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xPpXYnCWfjkt3zzE0dpCNME1pXF.jpg",
-      "categories": [
-        "Action",
-        "Animation"
-      ],
+      "categories": ["Action", "Animation"],
       "rating": 8.205,
       "runtime": 117
     },
@@ -301,11 +243,7 @@
       "date": "2024-07-26",
       "posterUrl": "https://image.tmdb.org/t/p/w342/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
-      "categories": [
-        "Action",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Comedy", "Science Fiction"],
       "rating": 7.58,
       "runtime": 128
     },
@@ -318,10 +256,7 @@
       "date": "2025-07-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/vFWvWhfAvij8UIngg2Vf6JV95Cr.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y7tjLYcq2ZGy2DNG0ODhGX9Tm60.jpg",
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
+      "categories": ["Action", "Comedy"],
       "rating": 6.538,
       "runtime": 94
     },
@@ -334,9 +269,7 @@
       "date": "2021-03-26",
       "posterUrl": "https://image.tmdb.org/t/p/w342/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 7.911,
       "runtime": 92
     },
@@ -349,12 +282,7 @@
       "date": "2022-08-12",
       "posterUrl": "https://image.tmdb.org/t/p/w342/3ce0zzOZ7DhkPxYNsPZmoQU2piH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Comedy", "Science Fiction"],
       "rating": 6.5,
       "runtime": 104
     },
@@ -367,9 +295,7 @@
       "date": "2025-03-28",
       "posterUrl": "https://image.tmdb.org/t/p/w342/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 6.711,
       "runtime": 116
     },
@@ -382,11 +308,7 @@
       "date": "2024-10-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 6.705,
       "runtime": 109
     },
@@ -399,12 +321,7 @@
       "date": "2024-03-08",
       "posterUrl": "https://image.tmdb.org/t/p/w342/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Action", "Adventure", "Animation", "Comedy"],
       "rating": 7.042,
       "runtime": 94
     },
@@ -417,11 +334,7 @@
       "date": "2004-11-05",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bf5BLoF4IbKx4vn0NbeqCbgBNdi.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Action", "Adventure", "Animation"],
       "rating": 7.717,
       "runtime": 115
     },
@@ -434,10 +347,7 @@
       "date": "2025-06-24",
       "posterUrl": "https://image.tmdb.org/t/p/w342/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
+      "categories": ["Action", "Comedy"],
       "rating": 6.916,
       "runtime": 117
     },
@@ -450,11 +360,7 @@
       "date": "2024-12-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-      "categories": [
-        "Action",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Comedy", "Science Fiction"],
       "rating": 7.66,
       "runtime": 110
     },
@@ -467,11 +373,7 @@
       "date": "2018-04-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 8.235,
       "runtime": 149
     },
@@ -484,9 +386,7 @@
       "date": "2025-04-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/j7KqDRzjbvIjDv7cdHz9G3ZYEQy.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 7.548,
       "runtime": 138
     },
@@ -499,11 +399,7 @@
       "date": "2023-05-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Mystery"
-      ],
+      "categories": ["Action", "Adventure", "Mystery"],
       "rating": 7.028,
       "runtime": 142
     },
@@ -516,10 +412,7 @@
       "date": "2025-02-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8eifdha9GQeZAkexgtD45546XKx.jpg",
-      "categories": [
-        "Action",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Science Fiction"],
       "rating": 6.036,
       "runtime": 119
     },
@@ -532,9 +425,7 @@
       "date": "2025-04-11",
       "posterUrl": "https://image.tmdb.org/t/p/w342/SNEoUInCa5fAgwuEBMIMBGvkkh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6van4BavoNXaZhCPdzLHNQ4Uc8H.jpg",
-      "categories": [
-        "Action"
-      ],
+      "categories": ["Action"],
       "rating": 6.989,
       "runtime": 123
     },
@@ -547,11 +438,7 @@
       "date": "2010-07-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 8.37,
       "runtime": 148
     },
@@ -564,11 +451,7 @@
       "date": "2022-12-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.612,
       "runtime": 192
     },
@@ -581,11 +464,7 @@
       "date": "2025-08-01",
       "posterUrl": "https://image.tmdb.org/t/p/w342/26oSPnq0ct59l07QOXZKyzsiRtN.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/jvpkBenB6hv19WWYVlaiow8zklq.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.79,
       "runtime": 104
     },
@@ -598,10 +477,7 @@
       "date": "2025-07-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-      "categories": [
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Science Fiction"],
       "rating": 7.181,
       "runtime": 115
     },
@@ -614,11 +490,7 @@
       "date": "2025-05-23",
       "posterUrl": "https://image.tmdb.org/t/p/w342/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
-      "categories": [
-        "Adventure",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Comedy", "Science Fiction"],
       "rating": 7.275,
       "runtime": 108
     },
@@ -631,12 +503,7 @@
       "date": "2025-06-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/w2ARwtc1zoh0pyfwmyhpZHwuXgK.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lWeaB9S77Os7VHOt8GH5JdfrBX3.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy", "Science Fiction"],
       "rating": 6.919,
       "runtime": 98
     },
@@ -649,11 +516,7 @@
       "date": "2014-11-05",
       "posterUrl": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vgnoBSVzWAV9sNQUORaDGvDp7wx.jpg",
-      "categories": [
-        "Adventure",
-        "Drama",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Drama", "Science Fiction"],
       "rating": 8.5,
       "runtime": 169
     },
@@ -666,10 +529,7 @@
       "date": "2019-08-29",
       "posterUrl": "https://image.tmdb.org/t/p/w342/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wYbOd1YdpDonQUHwRCTCY2grSq4.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 7.898,
       "runtime": 110
     },
@@ -682,11 +542,7 @@
       "date": "2024-11-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7,
       "runtime": 100
     },
@@ -699,9 +555,7 @@
       "date": "2001-11-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
-      "categories": [
-        "Adventure"
-      ],
+      "categories": ["Adventure"],
       "rating": 7.901,
       "runtime": 152
     },
@@ -714,11 +568,7 @@
       "date": "2024-06-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.551,
       "runtime": 97
     },
@@ -731,11 +581,7 @@
       "date": "1995-11-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 8,
       "runtime": 81
     },
@@ -748,9 +594,7 @@
       "date": "2005-12-09",
       "posterUrl": "https://image.tmdb.org/t/p/w342/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
-      "categories": [
-        "Adventure"
-      ],
+      "categories": ["Adventure"],
       "rating": 7.134,
       "runtime": 143
     },
@@ -763,10 +607,7 @@
       "date": "2001-12-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
+      "categories": ["Action", "Adventure"],
       "rating": 8.4,
       "runtime": 179
     },
@@ -779,10 +620,7 @@
       "date": "1983-10-21",
       "posterUrl": "https://image.tmdb.org/t/p/w342/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/jPdRlbRBHGl2POLLk6Oylbav7ac.jpg",
-      "categories": [
-        "Adventure",
-        "Drama"
-      ],
+      "categories": ["Adventure", "Drama"],
       "rating": 7.432,
       "runtime": 193
     },
@@ -795,9 +633,7 @@
       "date": "2002-11-15",
       "posterUrl": "https://image.tmdb.org/t/p/w342/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xACx8htL9Ubz1qGe0gU2ggHonxV.jpg",
-      "categories": [
-        "Adventure"
-      ],
+      "categories": ["Adventure"],
       "rating": 7.706,
       "runtime": 161
     },
@@ -810,11 +646,7 @@
       "date": "2021-12-17",
       "posterUrl": "https://image.tmdb.org/t/p/w342/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.94,
       "runtime": 148
     },
@@ -827,11 +659,7 @@
       "date": "2009-12-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.6,
       "runtime": 162
     },
@@ -844,9 +672,7 @@
       "date": "2004-06-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
-      "categories": [
-        "Adventure"
-      ],
+      "categories": ["Adventure"],
       "rating": 8.011,
       "runtime": 141
     },
@@ -859,10 +685,7 @@
       "date": "2025-06-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/22AouvwlhlXbe3nrFcjzL24bvWH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-      "categories": [
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Animation", "Comedy"],
       "rating": 8.314,
       "runtime": 96
     },
@@ -875,11 +698,7 @@
       "date": "2024-07-03",
       "posterUrl": "https://image.tmdb.org/t/p/w342/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
-      "categories": [
-        "Animation",
-        "Comedy",
-        "Science Fiction"
-      ],
+      "categories": ["Animation", "Comedy", "Science Fiction"],
       "rating": 7.013,
       "runtime": 94
     },
@@ -892,9 +711,7 @@
       "date": "2005-09-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
-      "categories": [
-        "Animation"
-      ],
+      "categories": ["Animation"],
       "rating": 7.583,
       "runtime": 77
     },
@@ -907,9 +724,7 @@
       "date": "2002-09-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ukfI9QkU1aIhOhKXYWE9n3z1mFR.jpg",
-      "categories": [
-        "Animation"
-      ],
+      "categories": ["Animation"],
       "rating": 8.536,
       "runtime": 125
     },
@@ -922,11 +737,7 @@
       "date": "2018-06-15",
       "posterUrl": "https://image.tmdb.org/t/p/w342/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/g1RA3pSKwjb3ZAvm3a3H7LxAwat.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Action", "Adventure", "Animation"],
       "rating": 7.454,
       "runtime": 118
     },
@@ -939,11 +750,7 @@
       "date": "2025-06-05",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2XDQa6EmFHSA37j1t0w88vpWqj9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/a3F9cXjRH488qcOqFmFZwqawBMU.jpg",
-      "categories": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Animation", "Science Fiction"],
       "rating": 7.889,
       "runtime": 85
     },
@@ -956,10 +763,7 @@
       "date": "2024-09-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
-      "categories": [
-        "Animation",
-        "Science Fiction"
-      ],
+      "categories": ["Animation", "Science Fiction"],
       "rating": 8.316,
       "runtime": 102
     },
@@ -972,10 +776,7 @@
       "date": "2017-11-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 8.202,
       "runtime": 105
     },
@@ -988,11 +789,7 @@
       "date": "2001-05-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.752,
       "runtime": 90
     },
@@ -1005,10 +802,7 @@
       "date": "2024-12-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 7.361,
       "runtime": 118
     },
@@ -1021,12 +815,7 @@
       "date": "2023-06-02",
       "posterUrl": "https://image.tmdb.org/t/p/w342/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Animation", "Science Fiction"],
       "rating": 8.341,
       "runtime": 140
     },
@@ -1039,9 +828,7 @@
       "date": "2009-02-06",
       "posterUrl": "https://image.tmdb.org/t/p/w342/4jeFXQYytChdZYE9JYO7Un87IlW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
-      "categories": [
-        "Animation"
-      ],
+      "categories": ["Animation"],
       "rating": 7.898,
       "runtime": 100
     },
@@ -1054,11 +841,7 @@
       "date": "2022-04-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9IDJpHROaC0S1ZlIxrvzOcOX5yC.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.539,
       "runtime": 100
     },
@@ -1071,10 +854,7 @@
       "date": "2013-11-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/itAKcobTYGpYT8Phwjd8c9hleTo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/u2bZhH3nTf0So0UIC1QxAqBvC07.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 7.248,
       "runtime": 102
     },
@@ -1087,11 +867,7 @@
       "date": "2023-04-05",
       "posterUrl": "https://image.tmdb.org/t/p/w342/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.608,
       "runtime": 93
     },
@@ -1104,10 +880,7 @@
       "date": "1999-11-24",
       "posterUrl": "https://image.tmdb.org/t/p/w342/yFWQkz2ynjwsazT6xQiIXEUsyuh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tPK1kSevALeVGPfDFv1pwyHnoJ9.jpg",
-      "categories": [
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Animation", "Comedy"],
       "rating": 7.603,
       "runtime": 92
     },
@@ -1120,10 +893,7 @@
       "date": "2007-06-29",
       "posterUrl": "https://image.tmdb.org/t/p/w342/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
-      "categories": [
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Animation", "Comedy"],
       "rating": 7.832,
       "runtime": 111
     },
@@ -1136,12 +906,7 @@
       "date": "2014-11-07",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2mxS4wUimwlLmI1xp6QW6NSU361.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Action", "Adventure", "Animation", "Comedy"],
       "rating": 7.7,
       "runtime": 102
     },
@@ -1154,11 +919,7 @@
       "date": "2016-03-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy"],
       "rating": 7.751,
       "runtime": 109
     },
@@ -1171,10 +932,7 @@
       "date": "2024-11-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/imKSymKBK7o73sajciEmndJoVkR.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ku9p7ciLeuV1R8pqJGMgawaaVE8.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 8.148,
       "runtime": 85
     },
@@ -1187,10 +945,7 @@
       "date": "2001-11-02",
       "posterUrl": "https://image.tmdb.org/t/p/w342/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
-      "categories": [
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Animation", "Comedy"],
       "rating": 7.8,
       "runtime": 92
     },
@@ -1203,10 +958,7 @@
       "date": "2010-11-24",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ym7Kst6a4uodryxqbGOxmewF235.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 7.611,
       "runtime": 100
     },
@@ -1219,12 +971,7 @@
       "date": "2014-06-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Animation",
-        "Comedy"
-      ],
+      "categories": ["Action", "Adventure", "Animation", "Comedy"],
       "rating": 7.7,
       "runtime": 102
     },
@@ -1237,12 +984,7 @@
       "date": "2015-06-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg",
-      "categories": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Adventure", "Animation", "Comedy", "Drama"],
       "rating": 7.9,
       "runtime": 95
     },
@@ -1255,10 +997,7 @@
       "date": "2005-06-10",
       "posterUrl": "https://image.tmdb.org/t/p/w342/TkTPELv4kC3u1lkloush8skOjE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/nv5wwZou159v5OC61i4ElR7OqyY.jpg",
-      "categories": [
-        "Adventure",
-        "Animation"
-      ],
+      "categories": ["Adventure", "Animation"],
       "rating": 8.397,
       "runtime": 119
     },
@@ -1271,10 +1010,7 @@
       "date": "2025-04-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 7.2,
       "runtime": 109
     },
@@ -1287,10 +1023,7 @@
       "date": "2025-08-28",
       "posterUrl": "https://image.tmdb.org/t/p/w342/u0o7XtI0WWdLzlK9hVT8lQTB6Yd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
-      "categories": [
-        "Comedy",
-        "Mystery"
-      ],
+      "categories": ["Comedy", "Mystery"],
       "rating": 6.696,
       "runtime": 118
     },
@@ -1303,10 +1036,7 @@
       "date": "2013-12-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 8.028,
       "runtime": 180
     },
@@ -1319,10 +1049,7 @@
       "date": "2023-12-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/jLLtx3nTRSLGPAKl4RoIv1FbEBr.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/r9oTasGQofvkQY5vlUXglneF64Z.jpg",
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
+      "categories": ["Action", "Comedy"],
       "rating": 7.259,
       "runtime": 118
     },
@@ -1335,10 +1062,7 @@
       "date": "2024-10-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4cp40IyTpFfsT2IKpl0YlUkMBIR.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 7.055,
       "runtime": 139
     },
@@ -1351,10 +1075,7 @@
       "date": "2025-08-01",
       "posterUrl": "https://image.tmdb.org/t/p/w342/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/A466i5iATrpbVjX30clP1Zyfp31.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 7.107,
       "runtime": 113
     },
@@ -1367,9 +1088,7 @@
       "date": "2009-06-05",
       "posterUrl": "https://image.tmdb.org/t/p/w342/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/iuRVt8tFiXDPGgzavhuSa3QHRxD.jpg",
-      "categories": [
-        "Comedy"
-      ],
+      "categories": ["Comedy"],
       "rating": 7.327,
       "runtime": 100
     },
@@ -1382,10 +1101,7 @@
       "date": "1994-10-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 8.487,
       "runtime": 154
     },
@@ -1398,9 +1114,7 @@
       "date": "2025-07-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ynT06XivgBDkg7AtbDbX1dJeBGY.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/x5dVPttNDZaVRTvbk7pYrtGZoZN.jpg",
-      "categories": [
-        "Comedy"
-      ],
+      "categories": ["Comedy"],
       "rating": 6.662,
       "runtime": 118
     },
@@ -1413,10 +1127,7 @@
       "date": "2023-07-21",
       "posterUrl": "https://image.tmdb.org/t/p/w342/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
-      "categories": [
-        "Adventure",
-        "Comedy"
-      ],
+      "categories": ["Adventure", "Comedy"],
       "rating": 7,
       "runtime": 114
     },
@@ -1429,10 +1140,7 @@
       "date": "2019-10-11",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 8.498,
       "runtime": 133
     },
@@ -1445,10 +1153,7 @@
       "date": "2024-11-15",
       "posterUrl": "https://image.tmdb.org/t/p/w342/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
-      "categories": [
-        "Action",
-        "Comedy"
-      ],
+      "categories": ["Action", "Comedy"],
       "rating": 7.048,
       "runtime": 124
     },
@@ -1461,11 +1166,7 @@
       "date": "2024-06-07",
       "posterUrl": "https://image.tmdb.org/t/p/w342/oGythE98MYleE6mZlGs5oBGkux1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ],
+      "categories": ["Action", "Adventure", "Comedy"],
       "rating": 7.367,
       "runtime": 115
     },
@@ -1478,10 +1179,7 @@
       "date": "2018-11-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2Xe9lISpwXKhvKiHttbFfVRERQX.jpg",
-      "categories": [
-        "Comedy",
-        "Drama"
-      ],
+      "categories": ["Comedy", "Drama"],
       "rating": 8.227,
       "runtime": 130
     },
@@ -1494,9 +1192,7 @@
       "date": "2025-08-08",
       "posterUrl": "https://image.tmdb.org/t/p/w342/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/wJ20rOZ1VgkCqv1jeOQB2Brny9k.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.388,
       "runtime": 129
     },
@@ -1509,9 +1205,7 @@
       "date": "2025-05-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/6WxhEvFsauuACfv8HyoVX6mZKFj.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/uIpJPDNFoeX0TVml9smPrs9KUVx.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.124,
       "runtime": 110
     },
@@ -1524,9 +1218,7 @@
       "date": "2025-07-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/A06yXys3hrCWu8xiNoHCFLTG5SH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 5.95,
       "runtime": 111
     },
@@ -1539,9 +1231,7 @@
       "date": "2021-06-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/rQfX2xx8TUoNvyk892yKWNikJaM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/6Z0FhoZM56YkuXhvklMTpc7rc5u.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.4,
       "runtime": 111
     },
@@ -1554,9 +1244,7 @@
       "date": "2025-04-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/lUvfTcOZiK0sdcX0WNLPbMyKjGm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/yBDvgpyynDsbMyK21FoQu1c2wYR.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.156,
       "runtime": 133
     },
@@ -1569,9 +1257,7 @@
       "date": "2025-05-09",
       "posterUrl": "https://image.tmdb.org/t/p/w342/bghFYMUMEKK6GyTHRA7XVC8uWn6.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gIwG9UWJLsiSBfaG5GJWGj9ghXD.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.175,
       "runtime": 96
     },
@@ -1584,11 +1270,7 @@
       "date": "2014-09-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ode14q7WtDugFDp78fo9lCsmay9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
-      "categories": [
-        "Action",
-        "Mystery",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Mystery", "Science Fiction"],
       "rating": 7.192,
       "runtime": 113
     },
@@ -1601,9 +1283,7 @@
       "date": "2022-03-04",
       "posterUrl": "https://image.tmdb.org/t/p/w342/74xTEgt7R36Fpooo50r9T25onhq.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.658,
       "runtime": 177
     },
@@ -1616,9 +1296,7 @@
       "date": "1995-09-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 8.377,
       "runtime": 127
     },
@@ -1631,10 +1309,7 @@
       "date": "2014-10-03",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/1ufic9NSdolkgNkQSAVjlVp0uqn.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 7.89,
       "runtime": 149
     },
@@ -1647,11 +1322,7 @@
       "date": "2016-11-11",
       "posterUrl": "https://image.tmdb.org/t/p/w342/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hNCqkXbWd40eftqSdjq8TmV7Mqr.jpg",
-      "categories": [
-        "Mystery",
-        "Drama",
-        "Science Fiction"
-      ],
+      "categories": ["Mystery", "Drama", "Science Fiction"],
       "rating": 7.619,
       "runtime": 116
     },
@@ -1664,9 +1335,7 @@
       "date": "2025-04-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/bLY5yN4MKVynZ2HMZWElTOGBgBe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/icFWIk1KfkWLZnugZAJEDauNZ94.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.5,
       "runtime": 103
     },
@@ -1679,10 +1348,7 @@
       "date": "2010-02-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 8.202,
       "runtime": 138
     },
@@ -1695,11 +1361,7 @@
       "date": "2002-06-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/aP8swke3gmowbkfZ6lmNidu0y9p.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kJaRWmy1BGq3pHyE94LOTteiHer.jpg",
-      "categories": [
-        "Action",
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Action", "Mystery", "Drama"],
       "rating": 7.5,
       "runtime": 119
     },
@@ -1712,9 +1374,7 @@
       "date": "2024-10-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/iR79ciqhtaZ9BE7YFA1HpCHQgX4.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.611,
       "runtime": 127
     },
@@ -1727,10 +1387,7 @@
       "date": "2010-01-29",
       "posterUrl": "https://image.tmdb.org/t/p/w342/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8srpvfRNT9qenQZACPTXDZYXitL.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 6.365,
       "runtime": 117
     },
@@ -1743,10 +1400,7 @@
       "date": "2001-04-06",
       "posterUrl": "https://image.tmdb.org/t/p/w342/vipRsbIpwUNf1gjfOcVNizQ1o3c.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/5C6njaciKvyZlKWUrQX7mjdl4D1.jpg",
-      "categories": [
-        "Action",
-        "Mystery"
-      ],
+      "categories": ["Action", "Mystery"],
       "rating": 6.335,
       "runtime": 104
     },
@@ -1759,9 +1413,7 @@
       "date": "2004-10-29",
       "posterUrl": "https://image.tmdb.org/t/p/w342/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hdQcJFEy1GSYzwVOE0VOOAAexs8.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.4,
       "runtime": 103
     },
@@ -1774,10 +1426,7 @@
       "date": "2011-06-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/mHMwoMPLkWHsMeNtFZSNSUOOJ1r.jpg",
-      "categories": [
-        "Mystery",
-        "Science Fiction"
-      ],
+      "categories": ["Mystery", "Science Fiction"],
       "rating": 5.7,
       "runtime": 86
     },
@@ -1790,10 +1439,7 @@
       "date": "2025-03-14",
       "posterUrl": "https://image.tmdb.org/t/p/w342/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/gxO51FVgADhYGGnnRPIlutVqb30.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 6.337,
       "runtime": 94
     },
@@ -1806,9 +1452,7 @@
       "date": "2003-01-31",
       "posterUrl": "https://image.tmdb.org/t/p/w342/dg6Tf98InieJSClSKQJTQevYWmB.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tKnmfO5lAyu8hpTZMyMaI4lhZpJ.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.3,
       "runtime": 90
     },
@@ -1821,10 +1465,7 @@
       "date": "2025-05-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/4iWjGghUj2uyHo2Hyw8NFBvsNGm.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/aESb695wTIF0tB7RTGRebnYrjFK.jpg",
-      "categories": [
-        "Adventure",
-        "Mystery"
-      ],
+      "categories": ["Adventure", "Mystery"],
       "rating": 6.3,
       "runtime": 126
     },
@@ -1837,10 +1478,7 @@
       "date": "2022-03-18",
       "posterUrl": "https://image.tmdb.org/t/p/w342/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 5.816,
       "runtime": 116
     },
@@ -1853,10 +1491,7 @@
       "date": "2014-03-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/au7iqEO8bi7CGQO8CheIqOxGdZS.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 6.714,
       "runtime": 124
     },
@@ -1869,11 +1504,7 @@
       "date": "1968-04-10",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
-      "categories": [
-        "Adventure",
-        "Mystery",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Mystery", "Science Fiction"],
       "rating": 8.065,
       "runtime": 149
     },
@@ -1886,9 +1517,7 @@
       "date": "1996-12-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 7.4,
       "runtime": 112
     },
@@ -1901,11 +1530,7 @@
       "date": "2006-10-17",
       "posterUrl": "https://image.tmdb.org/t/p/w342/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/yCnJT53HMXAK87xzPAdjdYhZ3JE.jpg",
-      "categories": [
-        "Mystery",
-        "Drama",
-        "Science Fiction"
-      ],
+      "categories": ["Mystery", "Drama", "Science Fiction"],
       "rating": 8.204,
       "runtime": 130
     },
@@ -1918,9 +1543,7 @@
       "date": "2024-03-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/zyopv7D5j7cfswG0NYiA14qAdPC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/3zKU2EznBtOPtheyCTQwdZL4b93.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.2,
       "runtime": 89
     },
@@ -1933,9 +1556,7 @@
       "date": "2020-04-17",
       "posterUrl": "https://image.tmdb.org/t/p/w342/zIssbOj36nNSWr3M3jjqcQgNGbN.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/isazfkX14Unin8m6meZMfm7QDfn.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.6,
       "runtime": 121
     },
@@ -1948,10 +1569,7 @@
       "date": "1997-10-17",
       "posterUrl": "https://image.tmdb.org/t/p/w342/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bHjrGR0Fzn4QEBhvjiwdyMPaYVH.jpg",
-      "categories": [
-        "Mystery",
-        "Drama"
-      ],
+      "categories": ["Mystery", "Drama"],
       "rating": 7.471,
       "runtime": 144
     },
@@ -1964,9 +1582,7 @@
       "date": "2006-02-10",
       "posterUrl": "https://image.tmdb.org/t/p/w342/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/nSV1NIAK0Sp5dM1oiobtqbJ8Jrv.jpg",
-      "categories": [
-        "Mystery"
-      ],
+      "categories": ["Mystery"],
       "rating": 6.147,
       "runtime": 92
     },
@@ -1979,11 +1595,7 @@
       "date": "2009-12-25",
       "posterUrl": "https://image.tmdb.org/t/p/w342/fvnu6QHyR0gSV1JI6lMyXCny21a.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/veXdzn7LL0bFIDGmE7tTkvRg0qV.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Mystery"
-      ],
+      "categories": ["Action", "Adventure", "Mystery"],
       "rating": 7.216,
       "runtime": 129
     },
@@ -1996,11 +1608,7 @@
       "date": "2015-05-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/kziYpr5Nfw60P0My8aj1sgCEqed.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/2nBCue2izIVpIXcKvdzNJnUJgaM.jpg",
-      "categories": [
-        "Adventure",
-        "Mystery",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Mystery", "Science Fiction"],
       "rating": 6.285,
       "runtime": 130
     },
@@ -2013,9 +1621,7 @@
       "date": "2023-06-08",
       "posterUrl": "https://image.tmdb.org/t/p/w342/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.782,
       "runtime": 117
     },
@@ -2028,9 +1634,7 @@
       "date": "1972-03-24",
       "posterUrl": "https://image.tmdb.org/t/p/w342/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 8.7,
       "runtime": 175
     },
@@ -2043,9 +1647,7 @@
       "date": "2024-12-26",
       "posterUrl": "https://image.tmdb.org/t/p/w342/1sQA7lfcF9yUyoLYC0e6Zo3jmxE.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.127,
       "runtime": 118
     },
@@ -2058,9 +1660,7 @@
       "date": "2025-02-12",
       "posterUrl": "https://image.tmdb.org/t/p/w342/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/uJK0jjJ8QDOQw5lcNBwu059ht4D.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.484,
       "runtime": 118
     },
@@ -2073,9 +1673,7 @@
       "date": "2025-06-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/eDo0pNruy0Qgj6BdTyHIR4cxHY8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 6.619,
       "runtime": 116
     },
@@ -2088,9 +1686,7 @@
       "date": "2022-04-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 5.9,
       "runtime": 111
     },
@@ -2103,9 +1699,7 @@
       "date": "1994-09-23",
       "posterUrl": "https://image.tmdb.org/t/p/w342/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 8.7,
       "runtime": 142
     },
@@ -2118,10 +1712,7 @@
       "date": "2024-09-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/bVSOgrxasVJF6V71T7v2KfBRSzu.jpg",
-      "categories": [
-        "Drama",
-        "Science Fiction"
-      ],
+      "categories": ["Drama", "Science Fiction"],
       "rating": 7.15,
       "runtime": 141
     },
@@ -2134,10 +1725,7 @@
       "date": "2022-09-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/v4YV4ne1nwNni35iz4WmpZRZpCD.jpg",
-      "categories": [
-        "Action",
-        "Drama"
-      ],
+      "categories": ["Action", "Drama"],
       "rating": 7.644,
       "runtime": 135
     },
@@ -2150,9 +1738,7 @@
       "date": "2022-05-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/TcOsu6iO5prSJbDn9oIQgIW655.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/y0LhmaMYpFkIfrUlOpJYTVMH2eA.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 6.303,
       "runtime": 108
     },
@@ -2165,9 +1751,7 @@
       "date": "1997-12-19",
       "posterUrl": "https://image.tmdb.org/t/p/w342/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.906,
       "runtime": 194
     },
@@ -2180,9 +1764,7 @@
       "date": "1991-02-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/A2VdIkrwBtfbZphrzxpIvEfetjl.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9CkI4VsYF8qJWfZpPqwZnBctb3M.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.144,
       "runtime": 116
     },
@@ -2195,9 +1777,7 @@
       "date": "2015-02-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/7IGKrY1f1KfwMipx9wZC4NRgIdF.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 5.88,
       "runtime": 125
     },
@@ -2210,9 +1790,7 @@
       "date": "2019-04-12",
       "posterUrl": "https://image.tmdb.org/t/p/w342/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.117,
       "runtime": 106
     },
@@ -2225,9 +1803,7 @@
       "date": "2008-11-21",
       "posterUrl": "https://image.tmdb.org/t/p/w342/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 6.287,
       "runtime": 122
     },
@@ -2240,9 +1816,7 @@
       "date": "2025-06-06",
       "posterUrl": "https://image.tmdb.org/t/p/w342/t3cmnXYtxJb9vVL1ThvT2CWSe1n.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fnbWrDx8w8Reau4F1tFqoGuGmDZ.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.9,
       "runtime": 105
     },
@@ -2255,9 +1829,7 @@
       "date": "2009-08-21",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 8.215,
       "runtime": 153
     },
@@ -2270,9 +1842,7 @@
       "date": "1999-10-15",
       "posterUrl": "https://image.tmdb.org/t/p/w342/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 8.4,
       "runtime": 139
     },
@@ -2285,9 +1855,7 @@
       "date": "2018-02-09",
       "posterUrl": "https://image.tmdb.org/t/p/w342/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9ywA15OAiwjSTvg3cBs9B7kOCBF.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 6.686,
       "runtime": 105
     },
@@ -2300,9 +1868,7 @@
       "date": "2023-07-21",
       "posterUrl": "https://image.tmdb.org/t/p/w342/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 8.05,
       "runtime": 181
     },
@@ -2315,9 +1881,7 @@
       "date": "2014-10-31",
       "posterUrl": "https://image.tmdb.org/t/p/w342/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/yFPaqqXMGsdOKit3fsAJ9tqPJRP.jpg",
-      "categories": [
-        "Drama"
-      ],
+      "categories": ["Drama"],
       "rating": 7.7,
       "runtime": 118
     },
@@ -2330,10 +1894,7 @@
       "date": "2022-05-27",
       "posterUrl": "https://image.tmdb.org/t/p/w342/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/kBSSbN1sOiJtXjAGVZXxHJR9Kox.jpg",
-      "categories": [
-        "Action",
-        "Drama"
-      ],
+      "categories": ["Action", "Drama"],
       "rating": 8.169,
       "runtime": 131
     },
@@ -2346,9 +1907,7 @@
       "date": "2025-07-30",
       "posterUrl": "https://image.tmdb.org/t/p/w342/yvirUYrva23IudARHn3mMGVxWqM.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "categories": [
-        "Science Fiction"
-      ],
+      "categories": ["Science Fiction"],
       "rating": 4.336,
       "runtime": 91
     },
@@ -2361,9 +1920,7 @@
       "date": "2025-06-20",
       "posterUrl": "https://image.tmdb.org/t/p/w342/n5FygjEppOvac6yEaowi26nTyw3.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zav0v7gLWMu6pVwgsIAwt11GJ4C.jpg",
-      "categories": [
-        "Science Fiction"
-      ],
+      "categories": ["Science Fiction"],
       "rating": 6.7,
       "runtime": 115
     },
@@ -2376,9 +1933,7 @@
       "date": "2025-02-13",
       "posterUrl": "https://image.tmdb.org/t/p/w342/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
-      "categories": [
-        "Science Fiction"
-      ],
+      "categories": ["Science Fiction"],
       "rating": 7.698,
       "runtime": 127
     },
@@ -2391,10 +1946,7 @@
       "date": "2002-05-03",
       "posterUrl": "https://image.tmdb.org/t/p/w342/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg",
-      "categories": [
-        "Action",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Science Fiction"],
       "rating": 7.316,
       "runtime": 121
     },
@@ -2407,9 +1959,7 @@
       "date": "2024-08-16",
       "posterUrl": "https://image.tmdb.org/t/p/w342/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/eP4RZSHliWu6lPT5WQyHr5ZZKuC.jpg",
-      "categories": [
-        "Science Fiction"
-      ],
+      "categories": ["Science Fiction"],
       "rating": 7.183,
       "runtime": 119
     },
@@ -2422,9 +1972,7 @@
       "date": "2025-01-31",
       "posterUrl": "https://image.tmdb.org/t/p/w342/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg",
-      "categories": [
-        "Science Fiction"
-      ],
+      "categories": ["Science Fiction"],
       "rating": 7.052,
       "runtime": 97
     },
@@ -2437,11 +1985,7 @@
       "date": "2017-07-07",
       "posterUrl": "https://image.tmdb.org/t/p/w342/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 7.329,
       "runtime": 133
     },
@@ -2454,10 +1998,7 @@
       "date": "1999-03-31",
       "posterUrl": "https://image.tmdb.org/t/p/w342/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
-      "categories": [
-        "Action",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Science Fiction"],
       "rating": 8.233,
       "runtime": 136
     },
@@ -2470,11 +2011,7 @@
       "date": "2007-05-03",
       "posterUrl": "https://image.tmdb.org/t/p/w342/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Action", "Adventure", "Science Fiction"],
       "rating": 6.445,
       "runtime": 139
     },
@@ -2487,10 +2024,7 @@
       "date": "2021-10-22",
       "posterUrl": "https://image.tmdb.org/t/p/w342/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
       "backdropUrl": "https://image.tmdb.org/t/p/w780/zRKQW58MBEY078AxkHxEJzUskCl.jpg",
-      "categories": [
-        "Adventure",
-        "Science Fiction"
-      ],
+      "categories": ["Adventure", "Science Fiction"],
       "rating": 7.781,
       "runtime": 155
     }

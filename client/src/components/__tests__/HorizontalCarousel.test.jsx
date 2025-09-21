@@ -1,12 +1,12 @@
-import '@testing-library/jest-dom';
+import "@testing-library/jest-dom";
 import {
   render,
   screen,
   fireEvent,
   act,
   waitFor,
-} from '@testing-library/react';
-import HorizontalCarousel from '../HorizontalCarousel';
+} from "@testing-library/react";
+import HorizontalCarousel from "../HorizontalCarousel";
 
 // ---- helpers ----
 function mockViewportLayout(
@@ -14,22 +14,22 @@ function mockViewportLayout(
   { clientWidth, scrollWidth, slideWidth, start = 0 },
 ) {
   // Give JSDOM the sizes it doesn't have
-  Object.defineProperty(viewport, 'clientWidth', {
+  Object.defineProperty(viewport, "clientWidth", {
     value: clientWidth,
     configurable: true,
   });
-  Object.defineProperty(viewport, 'scrollWidth', {
+  Object.defineProperty(viewport, "scrollWidth", {
     value: scrollWidth,
     configurable: true,
   });
-  Object.defineProperty(viewport, 'scrollLeft', {
+  Object.defineProperty(viewport, "scrollLeft", {
     value: start,
     writable: true,
     configurable: true,
   });
 
   // First slide width (used by the component to compute step)
-  const firstSlide = viewport.querySelector('.carousel-slide');
+  const firstSlide = viewport.querySelector(".carousel-slide");
   if (firstSlide) {
     firstSlide.getBoundingClientRect = () => ({
       width: slideWidth,
@@ -49,7 +49,7 @@ function mockViewportLayout(
     const max = viewport.scrollWidth - viewport.clientWidth;
     const next = Math.max(0, Math.min(viewport.scrollLeft + left, max));
     viewport.scrollLeft = next;
-    viewport.dispatchEvent(new Event('scroll'));
+    viewport.dispatchEvent(new Event("scroll"));
   });
 }
 
@@ -60,14 +60,14 @@ function renderCarousel({ childrenCount = 10, scrollBySlides = 3 } = {}) {
   render(
     <HorizontalCarousel scrollBy={scrollBySlides}>{kids}</HorizontalCarousel>,
   );
-  const viewport = document.querySelector('.carousel-viewport');
-  const prev = screen.getByRole('button', { name: /previous/i });
-  const next = screen.getByRole('button', { name: /next/i });
+  const viewport = document.querySelector(".carousel-viewport");
+  const prev = screen.getByRole("button", { name: /previous/i });
+  const next = screen.getByRole("button", { name: /next/i });
   return { viewport, prev, next };
 }
 
 // ---- tests ----
-test('clicking Next/Prev scrolls by slide widths', async () => {
+test("clicking Next/Prev scrolls by slide widths", async () => {
   const { viewport, prev, next } = renderCarousel({ scrollBySlides: 3 });
 
   // Step = 3 slides * 300px = 900
@@ -81,25 +81,25 @@ test('clicking Next/Prev scrolls by slide widths', async () => {
 
   // Trigger initial update in the component
   await act(async () => {
-    window.dispatchEvent(new Event('resize'));
+    window.dispatchEvent(new Event("resize"));
   });
 
   // Next: +900
   fireEvent.click(next);
   expect(viewport.scrollBy).toHaveBeenLastCalledWith({
     left: 900,
-    behavior: 'smooth',
+    behavior: "smooth",
   });
 
   // Prev: -900
   fireEvent.click(prev);
   expect(viewport.scrollBy).toHaveBeenLastCalledWith({
     left: -900,
-    behavior: 'smooth',
+    behavior: "smooth",
   });
 });
 
-test('disables Prev at start, disables Next at end, re-enables when moving back', async () => {
+test("disables Prev at start, disables Next at end, re-enables when moving back", async () => {
   const { viewport, prev, next } = renderCarousel({ scrollBySlides: 3 });
 
   mockViewportLayout(viewport, {
@@ -111,7 +111,7 @@ test('disables Prev at start, disables Next at end, re-enables when moving back'
 
   // Let the component compute button states
   await act(async () => {
-    window.dispatchEvent(new Event('resize'));
+    window.dispatchEvent(new Event("resize"));
   });
 
   // Start: prev disabled, next enabled
