@@ -6,6 +6,14 @@ React + Express demo app for browsing a small catalog of movies.
 
 **Backend: Node with Express**, serving a static **JSON dataset** parsed from TMDB API.
 
+## Demo and Screenshots
+
+[▶ Watch the demo on Google Drive](https://drive.google.com/file/d/1SAWiO7vj-AYzikCOLEJ1ibsfAMg8xzRv/view)
+
+| Browse Page                           | Detail Page                           | Search Page                           |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
+| ![Browse page](assets/browsepage.png) | ![Detail page](assets/detailpage.png) | ![Search page](assets/searchpage.png) |
+
 ## Features
 
 ### 1) Category Listing Page
