@@ -9,7 +9,7 @@ export default function HorizontalCarousel({ children, scrollBy = 3 }) {
   const update = () => {
     const el = viewportRef.current;
     if (!el) return;
-    setCanPrev(el.scrollLeft > 0);
+    setCanPrev(el.scrollLeft > 50);
     setCanNext(el.scrollLeft + el.clientWidth < el.scrollWidth - 1);
   };
 
