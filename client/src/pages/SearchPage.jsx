@@ -43,12 +43,15 @@ export default function SearchPage() {
   useEffect(() => {
     const controller = new AbortController();
     (async () => {
-      if (!debouncedQuery && !category) {
+      // if raw filters are empty, clear immediately (no fetch)
+      if (!q && !category) {
         setErr(null);
         setVideos([]);
         setLoading(false);
         return;
       }
+      // if we have raw q but the debounced value hasn't caught up yet, do nothing and let debounce finish instead of firing a fetch.
+      if (!debouncedQuery && q) return;
 
       setLoading(true);
       setErr(null);
@@ -79,7 +82,7 @@ export default function SearchPage() {
       }
     })();
     return () => controller.abort();
-  }, [debouncedQuery, category]);
+  }, [q, debouncedQuery, category]);
 
   const handleQueryChange = (e) => {
     const value = e.target.value;
